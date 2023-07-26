@@ -1,3 +1,6 @@
+#<Manba bilan tarqating: t.me/pycyberuz>#
+#بِسْمِ ٱللَّٰهِ, #
+
 class MovieGoer:
     import requests
     from selenium import webdriver
